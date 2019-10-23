@@ -1,9 +1,9 @@
-import React from 'react';
+import React, { Component } from 'react';
+import GlobalStyles from "../Styles/GlobalStyles";
 
-function App() {
-  return (
-    <div className="App"></div>
-  );
-}
-
-export default App;
+export default () => (
+  <>
+    <GlobalStyles />
+    Hello
+  </>
+);
