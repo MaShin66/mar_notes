@@ -3452,9 +3452,9 @@ decamelize@^2.0.0:
     xregexp "4.0.0"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.0.1"
@@ -8755,11 +8755,6 @@ react-side-effect@^1.1.0:
   integrity sha512-v1ht1aHg5k/thv56DRcjw+WtojuuDHFUgGfc+bFHOWsF4ZK6C2V57DO0Or0GPsg6+LSTE0M6Ry/gfzhzSwbc5w==
   dependencies:
     shallowequal "^1.0.1"
-
-react-style-reset@^1.2.14:
-  version "1.2.14"
-  resolved "https://registry.yarnpkg.com/react-style-reset/-/react-style-reset-1.2.14.tgz#bd940567f6f6ee06ec8ac9df94fd0b318d5e6dce"
-  integrity sha512-NJfqVirsnCTSshPukUwFz6KTkgSTKVRtLqR2RRMJjCX0fUEukcaExttZwyavcY/zl/NFW1V7G3EtIQ0CYNBCtQ==
 
 react@^16.10.1:
   version "16.10.1"
